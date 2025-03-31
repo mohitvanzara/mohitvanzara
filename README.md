@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mohitvanzara" target="blank"><img src="https://img.shields.io/twitter/follow/mohitvanzara?logo=twitter&style=for-the-badge" alt="mohitvanzara" /></a> </p>
 
-- 👯 I’m looking to collaborate on [Medora_swasthya](https://github.com/Nikunj2608/Medora_Swasthya.git)
-
 - 📫 How to reach me *www.linkedin.com/in/mohit-vanzara-a998042b9*
 
 ### Blogs posts
